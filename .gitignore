@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.log
+.env
+*.sqlite
+*.sqlite-journal
+data/
+.DS_Store
+CLAUDE.local.md
